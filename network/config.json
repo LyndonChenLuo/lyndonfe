@@ -1,0 +1,54 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "中国传媒大学大数据挖掘与社会计算实验室",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "一带一路沿线国家合作势态网络图",
+    "more": "设计与制作：中国传媒大学大数据挖掘与社会计算实验室罗晨<br>Designed by Big Data Mining and Social Computing Laboratory, CUC<br><br>日期：2016年10月11日<br>Date: 11st Oct, 2016<br><br>",
+    "intro": "<br>数据来自GDELT 1.0 Event Databse中2016年9月的一带一路沿线国家数据。<br><br>沿线国家的GDP (单位: 10亿美元) 与人口数量 (单位: 人) 均为2015年世界银行公布数据。<br><br>设计&代码：罗晨"
+  },
+  "legend": {
+    "edgeLabel": "合作情况",
+    "colorLabel": "连线颜色：合作冲突比值",
+    "nodeLabel": "沿线国家"
+  },
+  "features": {
+    "search": false,
+    "groupSelectorAttribute": "所属区域",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": "link",
+    "groupByEdgeDirection": true
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.3,
+      "maxNodeSize": 7,
+      "maxEdgeSize": 5,
+      "minNodeSize": 3
+    },
+    "drawingProperties": {
+      "labelThreshold": 9, 
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+	  "LabelSize": 10,
+      "defaultLabelSize": 20,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 1,
+      "maxRatio": 20
+    }
+  }
+}
