@@ -243,3 +243,8 @@ body{
     line-height: 30px;
     text-align: center;
 }
+
+.icon-black-point{
+    position: relative;
+    right: 236px;
+}
