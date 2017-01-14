@@ -243,3 +243,6 @@ body{
     line-height: 30px;
     text-align: center;
 }
+.icon-black-point:before{
+    padding-left: 61.5px;
+}
