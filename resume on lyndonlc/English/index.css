@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    text-align: justify;
+}
+.site-wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+.topbar{
+    line-height: 34px;
+    padding: 33px 0;
+    background: white;
+    color: #bcbcbc;
+    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, .15);
+}
+.topbar .menu{
+    float: left;
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: -3px;
+}
+.topbar .i-imenu{
+    padding-right: 15px;
+    color: #20b295;
+}
+.topbar .share{
+    color: #20B295;
+    float: right;
+    font-size: 28px;
+}
+.main{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.card{
+    text-align: center;
+    line-height: 234px;
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    /*background: url("") 23px 0 no-repeat;*/
+    /*background-size: contain;*/
+    /*width: 240px;*/
+    /*height: 260px;*/
+}
+.summary{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 22px;
+    margin-top: 20px;
+}
+.date{
+    font-size: 20px;
+    font-weight: bold;
+}
+.summary ul{
+    margin-left: 40px;
+}
+.education{
+    margin-left: 40px;
+}
+.education .date{
+    margin-left: -18px;
+}
+.iresume{
+    padding-right: 21px;
+    font-size: 25px;
+    position: relative;
+    top: 3px;
+}
+.detail{
+    margin-left: 33px;
+    font-weight: normal;
+}
+.academic{
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.academic .date{
+    margin-left: -18px;
+}
+.i-academic{
+    font-size: 20px;
+}
+.brief{
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 15px;
+}
+.main-part{
+    padding-top: 10px;
+}
+.tune{
+    font-weight: bold;
+}
+.contacts p{
+    margin-top: 40px;
+    font-weight: bold;
+    text-align: center;
+}
