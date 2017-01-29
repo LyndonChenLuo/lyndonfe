@@ -196,7 +196,7 @@ font-size:14px;
 #jisc {
 width: 270px;
 height: 45px;
-background-image: url('../images/lab.png');
+background-image: url('');
 background-repeat: no-repeat;
 display:inline-block;
 margin-left:10px;
@@ -210,7 +210,7 @@ margin-right:0px;
 #oii {
 width: 261px;
 height: 77px;
-background-image: url('../images/datainsight.PNG');
+background-image: url('');
 background-repeat: no-repeat;
 display:inline-block;
 margin-left:10px;
