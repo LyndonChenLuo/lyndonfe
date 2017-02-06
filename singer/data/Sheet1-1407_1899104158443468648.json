@@ -1,0 +1,5613 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.3.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Sheet1",
+    "name" : "Sheet1",
+    "SUID" : 1407,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "1659",
+        "shared_name" : "竞演8",
+        "name" : "竞演8",
+        "SUID" : 1659,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4598.67041015625,
+        "y" : 8570.056450815426
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1655",
+        "shared_name" : "出场8",
+        "name" : "出场8",
+        "SUID" : 1655,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2040.138916015625,
+        "y" : 8540.662763315477
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1436",
+        "shared_name" : "竞演1",
+        "name" : "竞演1",
+        "SUID" : 1436,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4474.4755859375,
+        "y" : 1132.065376253039
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1435",
+        "shared_name" : "出场7",
+        "name" : "出场7",
+        "SUID" : 1435,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2036.1863153871248,
+        "y" : 7541.742083474812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1433",
+        "shared_name" : "竞演5",
+        "name" : "竞演5",
+        "SUID" : 1433,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4511.515435190427,
+        "y" : 5463.3935546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1432",
+        "shared_name" : "出场6",
+        "name" : "出场6",
+        "SUID" : 1432,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2045.6018020574356,
+        "y" : 6496.28369140625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1430",
+        "shared_name" : "竞演6",
+        "name" : "竞演6",
+        "SUID" : 1430,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4561.224609375,
+        "y" : 6550.940239877927
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1429",
+        "shared_name" : "出场5",
+        "name" : "出场5",
+        "SUID" : 1429,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2060.1162109375,
+        "y" : 5456.494951528274
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1427",
+        "shared_name" : "竞演3",
+        "name" : "竞演3",
+        "SUID" : 1427,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4475.52392578125,
+        "y" : 3250.9155816748016
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1426",
+        "shared_name" : "出场4",
+        "name" : "出场4",
+        "SUID" : 1426,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2077.078369140625,
+        "y" : 4404.588213247024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1424",
+        "shared_name" : "竞演4",
+        "name" : "竞演4",
+        "SUID" : 1424,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4479.70458984375,
+        "y" : 4323.443928803721
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1423",
+        "shared_name" : "出场3",
+        "name" : "出场3",
+        "SUID" : 1423,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2059.41259765625,
+        "y" : 3378.4617484032738
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1421",
+        "shared_name" : "竞演7",
+        "name" : "竞演7",
+        "SUID" : 1421,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4598.5185546875,
+        "y" : 7608.468370380853
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1420",
+        "shared_name" : "出场2",
+        "name" : "出场2",
+        "SUID" : 1420,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2104.2083304345238,
+        "y" : 2307.533935546875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1418",
+        "shared_name" : "竞演2",
+        "name" : "竞演2",
+        "SUID" : 1418,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 4454.62841796875,
+        "y" : 2201.987657490228
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1417",
+        "shared_name" : "出场1",
+        "name" : "出场1",
+        "SUID" : 1417,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2092.11376953125,
+        "y" : 1284.911298471726
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1749",
+        "source" : "1655",
+        "target" : "1418",
+        "shared_name" : "出场8 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "赵雷",
+        "year" : 2017,
+        "name" : "出场8 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1749,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1720",
+        "source" : "1655",
+        "target" : "1430",
+        "shared_name" : "出场8 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "老狼",
+        "year" : 2016,
+        "name" : "出场8 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 10,
+        "SUID" : 1720,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1699",
+        "source" : "1655",
+        "target" : "1427",
+        "shared_name" : "出场8 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "容祖儿",
+        "year" : 2016,
+        "name" : "出场8 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 7,
+        "SUID" : 1699,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1678",
+        "source" : "1655",
+        "target" : "1418",
+        "shared_name" : "出场8 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场8 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 4,
+        "SUID" : 1678,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1671",
+        "source" : "1655",
+        "target" : "1427",
+        "shared_name" : "出场8 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场8 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 3,
+        "SUID" : 1671,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1665",
+        "source" : "1655",
+        "target" : "1436",
+        "shared_name" : "出场8 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场8 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1665,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1656",
+        "source" : "1655",
+        "target" : "1424",
+        "shared_name" : "出场8 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "苏见信",
+        "year" : 2016,
+        "name" : "出场8 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1656,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1748",
+        "source" : "1435",
+        "target" : "1424",
+        "shared_name" : "出场7 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2017,
+        "name" : "出场7 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1748,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1741",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "林忆莲",
+        "year" : 2017,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 2,
+        "SUID" : 1741,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1734",
+        "source" : "1435",
+        "target" : "1418",
+        "shared_name" : "出场7 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "林忆莲",
+        "year" : 2017,
+        "name" : "出场7 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 1,
+        "SUID" : 1734,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1727",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 11,
+        "SUID" : 1727,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1719",
+        "source" : "1435",
+        "target" : "1433",
+        "shared_name" : "出场7 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 10,
+        "SUID" : 1719,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1713",
+        "source" : "1435",
+        "target" : "1430",
+        "shared_name" : "出场7 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "金志文",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 9,
+        "SUID" : 1713,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1698",
+        "source" : "1435",
+        "target" : "1418",
+        "shared_name" : "出场7 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 7,
+        "SUID" : 1698,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1692",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "王晰",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 6,
+        "SUID" : 1692,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1685",
+        "source" : "1435",
+        "target" : "1424",
+        "shared_name" : "出场7 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "苏见信",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 5,
+        "SUID" : 1685,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1677",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 4,
+        "SUID" : 1677,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1664",
+        "source" : "1435",
+        "target" : "1424",
+        "shared_name" : "出场7 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "哈雅乐团",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1664,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1654",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1654,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1647",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 11,
+        "SUID" : 1647,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1640",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "萧煌奇",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 10,
+        "SUID" : 1640,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1633",
+        "source" : "1435",
+        "target" : "1433",
+        "shared_name" : "出场7 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "李佳薇",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 9,
+        "SUID" : 1633,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1626",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 8,
+        "SUID" : 1626,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1619",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "郑淳元",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 7,
+        "SUID" : 1619,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1612",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭维维",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 6,
+        "SUID" : 1612,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1605",
+        "source" : "1435",
+        "target" : "1418",
+        "shared_name" : "出场7 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 5,
+        "SUID" : 1605,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1598",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 4,
+        "SUID" : 1598,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1591",
+        "source" : "1435",
+        "target" : "1430",
+        "shared_name" : "出场7 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "李荣浩",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 3,
+        "SUID" : 1591,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1584",
+        "source" : "1435",
+        "target" : "1430",
+        "shared_name" : "出场7 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 2,
+        "SUID" : 1584,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1577",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 1,
+        "SUID" : 1577,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1570",
+        "source" : "1435",
+        "target" : "1418",
+        "shared_name" : "出场7 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 10,
+        "SUID" : 1570,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1563",
+        "source" : "1435",
+        "target" : "1430",
+        "shared_name" : "出场7 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "动力火车",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 9,
+        "SUID" : 1563,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1556",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 8,
+        "SUID" : 1556,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1549",
+        "source" : "1435",
+        "target" : "1418",
+        "shared_name" : "出场7 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "茜拉",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 7,
+        "SUID" : 1549,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1542",
+        "source" : "1435",
+        "target" : "1424",
+        "shared_name" : "出场7 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "罗琦",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 6,
+        "SUID" : 1542,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1535",
+        "source" : "1435",
+        "target" : "1421",
+        "shared_name" : "出场7 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "品冠",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 5,
+        "SUID" : 1535,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1528",
+        "source" : "1435",
+        "target" : "1418",
+        "shared_name" : "出场7 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 4,
+        "SUID" : 1528,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1521",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 3,
+        "SUID" : 1521,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1514",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "韦唯",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 2,
+        "SUID" : 1514,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1507",
+        "source" : "1435",
+        "target" : "1418",
+        "shared_name" : "出场7 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "韦唯",
+        "year" : 2014,
+        "name" : "出场7 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 1,
+        "SUID" : 1507,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1500",
+        "source" : "1435",
+        "target" : "1433",
+        "shared_name" : "出场7 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "辛晓琪",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 10,
+        "SUID" : 1500,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1493",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "彭佳慧",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 9,
+        "SUID" : 1493,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1486",
+        "source" : "1435",
+        "target" : "1430",
+        "shared_name" : "出场7 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "辛晓琪",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 8,
+        "SUID" : 1486,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1479",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "辛晓琪",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 7,
+        "SUID" : 1479,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1472",
+        "source" : "1435",
+        "target" : "1433",
+        "shared_name" : "出场7 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "周晓鸥",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 6,
+        "SUID" : 1472,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1465",
+        "source" : "1435",
+        "target" : "1427",
+        "shared_name" : "出场7 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "周晓鸥",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 5,
+        "SUID" : 1465,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1458",
+        "source" : "1435",
+        "target" : "1433",
+        "shared_name" : "出场7 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 4,
+        "SUID" : 1458,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1451",
+        "source" : "1435",
+        "target" : "1421",
+        "shared_name" : "出场7 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "杨宗纬",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 3,
+        "SUID" : 1451,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1444",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 2,
+        "SUID" : 1444,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1437",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "出场7 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "齐秦",
+        "year" : 2013,
+        "name" : "出场7 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 1,
+        "SUID" : 1437,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1747",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "杜丽莎",
+        "year" : 2017,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1747,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1740",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "狮子合唱团",
+        "year" : 2017,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 2,
+        "SUID" : 1740,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1733",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭晶",
+        "year" : 2017,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 1,
+        "SUID" : 1733,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1726",
+        "source" : "1432",
+        "target" : "1427",
+        "shared_name" : "出场6 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "容祖儿",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 11,
+        "SUID" : 1726,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1718",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 10,
+        "SUID" : 1718,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1712",
+        "source" : "1432",
+        "target" : "1436",
+        "shared_name" : "出场6 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 9,
+        "SUID" : 1712,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1705",
+        "source" : "1432",
+        "target" : "1418",
+        "shared_name" : "出场6 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 8,
+        "SUID" : 1705,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1697",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 7,
+        "SUID" : 1697,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1691",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "苏见信",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 6,
+        "SUID" : 1691,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1684",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 5,
+        "SUID" : 1684,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1676",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 4,
+        "SUID" : 1676,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1670",
+        "source" : "1432",
+        "target" : "1436",
+        "shared_name" : "出场6 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 3,
+        "SUID" : 1670,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1663",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1663,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1653",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "关喆",
+        "year" : 2016,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1653,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1646",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "萧煌奇",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 11,
+        "SUID" : 1646,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1639",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 10,
+        "SUID" : 1639,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1632",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 9,
+        "SUID" : 1632,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1625",
+        "source" : "1432",
+        "target" : "1418",
+        "shared_name" : "出场6 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 8,
+        "SUID" : 1625,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1618",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 7,
+        "SUID" : 1618,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1611",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 6,
+        "SUID" : 1611,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1604",
+        "source" : "1432",
+        "target" : "1436",
+        "shared_name" : "出场6 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 5,
+        "SUID" : 1604,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1597",
+        "source" : "1432",
+        "target" : "1436",
+        "shared_name" : "出场6 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 4,
+        "SUID" : 1597,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1590",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 3,
+        "SUID" : 1590,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1583",
+        "source" : "1432",
+        "target" : "1427",
+        "shared_name" : "出场6 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "古巨基",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 2,
+        "SUID" : 1583,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1576",
+        "source" : "1432",
+        "target" : "1418",
+        "shared_name" : "出场6 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场6 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 1,
+        "SUID" : 1576,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1569",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "动力火车",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 10,
+        "SUID" : 1569,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1562",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 9,
+        "SUID" : 1562,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1555",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "满文军",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 8,
+        "SUID" : 1555,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1548",
+        "source" : "1432",
+        "target" : "1436",
+        "shared_name" : "出场6 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 7,
+        "SUID" : 1548,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1541",
+        "source" : "1432",
+        "target" : "1430",
+        "shared_name" : "出场6 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 6,
+        "SUID" : 1541,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1534",
+        "source" : "1432",
+        "target" : "1427",
+        "shared_name" : "出场6 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 5,
+        "SUID" : 1534,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1527",
+        "source" : "1432",
+        "target" : "1427",
+        "shared_name" : "出场6 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 4,
+        "SUID" : 1527,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1520",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 3,
+        "SUID" : 1520,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1513",
+        "source" : "1432",
+        "target" : "1418",
+        "shared_name" : "出场6 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 2,
+        "SUID" : 1513,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1506",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "曹格",
+        "year" : 2014,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 1,
+        "SUID" : 1506,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1499",
+        "source" : "1432",
+        "target" : "1436",
+        "shared_name" : "出场6 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "周晓鸥",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 10,
+        "SUID" : 1499,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1492",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 9,
+        "SUID" : 1492,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1485",
+        "source" : "1432",
+        "target" : "1418",
+        "shared_name" : "出场6 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "周晓鸥",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 8,
+        "SUID" : 1485,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1478",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "周晓鸥",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 7,
+        "SUID" : 1478,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1471",
+        "source" : "1432",
+        "target" : "1424",
+        "shared_name" : "出场6 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 6,
+        "SUID" : 1471,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1464",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 5,
+        "SUID" : 1464,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1457",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "杨宗纬",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 4,
+        "SUID" : 1457,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1450",
+        "source" : "1432",
+        "target" : "1436",
+        "shared_name" : "出场6 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 3,
+        "SUID" : 1450,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1443",
+        "source" : "1432",
+        "target" : "1421",
+        "shared_name" : "出场6 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄贯中",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 2,
+        "SUID" : 1443,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1434",
+        "source" : "1432",
+        "target" : "1433",
+        "shared_name" : "出场6 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场6 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 1,
+        "SUID" : 1434,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1746",
+        "source" : "1429",
+        "target" : "1427",
+        "shared_name" : "出场5 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "迪玛希",
+        "year" : 2017,
+        "name" : "出场5 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1746,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1739",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "杜丽莎",
+        "year" : 2017,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 2,
+        "SUID" : 1739,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1732",
+        "source" : "1429",
+        "target" : "1424",
+        "shared_name" : "出场5 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "狮子合唱团",
+        "year" : 2017,
+        "name" : "出场5 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 1,
+        "SUID" : 1732,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1725",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 11,
+        "SUID" : 1725,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1717",
+        "source" : "1429",
+        "target" : "1436",
+        "shared_name" : "出场5 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 10,
+        "SUID" : 1717,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1711",
+        "source" : "1429",
+        "target" : "1421",
+        "shared_name" : "出场5 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 9,
+        "SUID" : 1711,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1704",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "容祖儿",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 8,
+        "SUID" : 1704,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1696",
+        "source" : "1429",
+        "target" : "1421",
+        "shared_name" : "出场5 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "王晰",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 7,
+        "SUID" : 1696,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1690",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 6,
+        "SUID" : 1690,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1683",
+        "source" : "1429",
+        "target" : "1430",
+        "shared_name" : "出场5 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 5,
+        "SUID" : 1683,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1675",
+        "source" : "1429",
+        "target" : "1436",
+        "shared_name" : "出场5 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 4,
+        "SUID" : 1675,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1669",
+        "source" : "1429",
+        "target" : "1430",
+        "shared_name" : "出场5 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "赵传",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 3,
+        "SUID" : 1669,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1662",
+        "source" : "1429",
+        "target" : "1421",
+        "shared_name" : "出场5 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "苏见信",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1662,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1652",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "赵传",
+        "year" : 2016,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1652,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1645",
+        "source" : "1429",
+        "target" : "1418",
+        "shared_name" : "出场5 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 11,
+        "SUID" : 1645,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1638",
+        "source" : "1429",
+        "target" : "1436",
+        "shared_name" : "出场5 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "郑淳元",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 10,
+        "SUID" : 1638,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1631",
+        "source" : "1429",
+        "target" : "1418",
+        "shared_name" : "出场5 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "郑淳元",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 9,
+        "SUID" : 1631,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1624",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭维维",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 8,
+        "SUID" : 1624,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1617",
+        "source" : "1429",
+        "target" : "1418",
+        "shared_name" : "出场5 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 7,
+        "SUID" : 1617,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1610",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 6,
+        "SUID" : 1610,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1603",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 5,
+        "SUID" : 1603,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1596",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "古巨基",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 4,
+        "SUID" : 1596,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1589",
+        "source" : "1429",
+        "target" : "1436",
+        "shared_name" : "出场5 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "古巨基",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 3,
+        "SUID" : 1589,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1582",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "胡彦斌",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 2,
+        "SUID" : 1582,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1575",
+        "source" : "1429",
+        "target" : "1421",
+        "shared_name" : "出场5 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈洁仪",
+        "year" : 2015,
+        "name" : "出场5 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 1,
+        "SUID" : 1575,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1568",
+        "source" : "1429",
+        "target" : "1427",
+        "shared_name" : "出场5 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "茜拉",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 10,
+        "SUID" : 1568,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1561",
+        "source" : "1429",
+        "target" : "1418",
+        "shared_name" : "出场5 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 9,
+        "SUID" : 1561,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1554",
+        "source" : "1429",
+        "target" : "1418",
+        "shared_name" : "出场5 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 8,
+        "SUID" : 1554,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1547",
+        "source" : "1429",
+        "target" : "1424",
+        "shared_name" : "出场5 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 7,
+        "SUID" : 1547,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1540",
+        "source" : "1429",
+        "target" : "1436",
+        "shared_name" : "出场5 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 6,
+        "SUID" : 1540,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1533",
+        "source" : "1429",
+        "target" : "1424",
+        "shared_name" : "出场5 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 5,
+        "SUID" : 1533,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1526",
+        "source" : "1429",
+        "target" : "1430",
+        "shared_name" : "出场5 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 4,
+        "SUID" : 1526,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1519",
+        "source" : "1429",
+        "target" : "1436",
+        "shared_name" : "出场5 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 3,
+        "SUID" : 1519,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1512",
+        "source" : "1429",
+        "target" : "1430",
+        "shared_name" : "出场5 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "罗琦",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 2,
+        "SUID" : 1512,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1505",
+        "source" : "1429",
+        "target" : "1427",
+        "shared_name" : "出场5 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "罗琦",
+        "year" : 2014,
+        "name" : "出场5 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 1,
+        "SUID" : 1505,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1498",
+        "source" : "1429",
+        "target" : "1427",
+        "shared_name" : "出场5 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "林志炫",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 10,
+        "SUID" : 1498,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1491",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 9,
+        "SUID" : 1491,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1484",
+        "source" : "1429",
+        "target" : "1436",
+        "shared_name" : "出场5 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "林志炫",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 8,
+        "SUID" : 1484,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1477",
+        "source" : "1429",
+        "target" : "1418",
+        "shared_name" : "出场5 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "林志炫",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 7,
+        "SUID" : 1477,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1470",
+        "source" : "1429",
+        "target" : "1421",
+        "shared_name" : "出场5 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈明",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 6,
+        "SUID" : 1470,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1463",
+        "source" : "1429",
+        "target" : "1433",
+        "shared_name" : "出场5 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈明",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 5,
+        "SUID" : 1463,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1456",
+        "source" : "1429",
+        "target" : "1427",
+        "shared_name" : "出场5 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 4,
+        "SUID" : 1456,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1449",
+        "source" : "1429",
+        "target" : "1418",
+        "shared_name" : "出场5 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "齐秦",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 3,
+        "SUID" : 1449,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1442",
+        "source" : "1429",
+        "target" : "1430",
+        "shared_name" : "出场5 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈明",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 2,
+        "SUID" : 1442,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1431",
+        "source" : "1429",
+        "target" : "1430",
+        "shared_name" : "出场5 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场5 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 1,
+        "SUID" : 1431,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1745",
+        "source" : "1426",
+        "target" : "1659",
+        "shared_name" : "出场4 (interacts with) 竞演8",
+        "shared_interaction" : "interacts with",
+        "singer" : "袁娅维",
+        "year" : 2017,
+        "name" : "出场4 (interacts with) 竞演8",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1745,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1738",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "迪玛希",
+        "year" : 2017,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 2,
+        "SUID" : 1738,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1731",
+        "source" : "1426",
+        "target" : "1427",
+        "shared_name" : "出场4 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "杜丽莎",
+        "year" : 2017,
+        "name" : "出场4 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 1,
+        "SUID" : 1731,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1724",
+        "source" : "1426",
+        "target" : "1421",
+        "shared_name" : "出场4 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "老狼",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 11,
+        "SUID" : 1724,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1710",
+        "source" : "1426",
+        "target" : "1418",
+        "shared_name" : "出场4 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 9,
+        "SUID" : 1710,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1703",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 8,
+        "SUID" : 1703,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1695",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 7,
+        "SUID" : 1695,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1689",
+        "source" : "1426",
+        "target" : "1418",
+        "shared_name" : "出场4 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 6,
+        "SUID" : 1689,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1686",
+        "source" : "1426",
+        "target" : "1427",
+        "shared_name" : "出场4 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 6,
+        "SUID" : 1686,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1682",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 5,
+        "SUID" : 1682,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1661",
+        "source" : "1426",
+        "target" : "1427",
+        "shared_name" : "出场4 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "赵传",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1661,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1651",
+        "source" : "1426",
+        "target" : "1430",
+        "shared_name" : "出场4 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场4 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1651,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1644",
+        "source" : "1426",
+        "target" : "1430",
+        "shared_name" : "出场4 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭维维",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 11,
+        "SUID" : 1644,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1637",
+        "source" : "1426",
+        "target" : "1418",
+        "shared_name" : "出场4 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 10,
+        "SUID" : 1637,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1630",
+        "source" : "1426",
+        "target" : "1418",
+        "shared_name" : "出场4 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 9,
+        "SUID" : 1630,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1623",
+        "source" : "1426",
+        "target" : "1421",
+        "shared_name" : "出场4 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 8,
+        "SUID" : 1623,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1616",
+        "source" : "1426",
+        "target" : "1433",
+        "shared_name" : "出场4 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭维维",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 7,
+        "SUID" : 1616,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1609",
+        "source" : "1426",
+        "target" : "1418",
+        "shared_name" : "出场4 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 6,
+        "SUID" : 1609,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1602",
+        "source" : "1426",
+        "target" : "1430",
+        "shared_name" : "出场4 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 5,
+        "SUID" : 1602,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1595",
+        "source" : "1426",
+        "target" : "1424",
+        "shared_name" : "出场4 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "胡彦斌",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 4,
+        "SUID" : 1595,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1588",
+        "source" : "1426",
+        "target" : "1418",
+        "shared_name" : "出场4 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 3,
+        "SUID" : 1588,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1581",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 2,
+        "SUID" : 1581,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1574",
+        "source" : "1426",
+        "target" : "1433",
+        "shared_name" : "出场4 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "胡彦斌",
+        "year" : 2015,
+        "name" : "出场4 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 1,
+        "SUID" : 1574,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1567",
+        "source" : "1426",
+        "target" : "1430",
+        "shared_name" : "出场4 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 10,
+        "SUID" : 1567,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1560",
+        "source" : "1426",
+        "target" : "1427",
+        "shared_name" : "出场4 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "茜拉",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 9,
+        "SUID" : 1560,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1553",
+        "source" : "1426",
+        "target" : "1424",
+        "shared_name" : "出场4 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "茜拉",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 8,
+        "SUID" : 1553,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1546",
+        "source" : "1426",
+        "target" : "1421",
+        "shared_name" : "出场4 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 7,
+        "SUID" : 1546,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1539",
+        "source" : "1426",
+        "target" : "1421",
+        "shared_name" : "出场4 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "品冠",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 6,
+        "SUID" : 1539,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1532",
+        "source" : "1426",
+        "target" : "1430",
+        "shared_name" : "出场4 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 5,
+        "SUID" : 1532,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1525",
+        "source" : "1426",
+        "target" : "1433",
+        "shared_name" : "出场4 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "罗琦",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 4,
+        "SUID" : 1525,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1518",
+        "source" : "1426",
+        "target" : "1424",
+        "shared_name" : "出场4 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 3,
+        "SUID" : 1518,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1511",
+        "source" : "1426",
+        "target" : "1433",
+        "shared_name" : "出场4 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 2,
+        "SUID" : 1511,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1504",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 1,
+        "SUID" : 1504,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1497",
+        "source" : "1426",
+        "target" : "1418",
+        "shared_name" : "出场4 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 10,
+        "SUID" : 1497,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1490",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "林志炫",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 9,
+        "SUID" : 1490,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1483",
+        "source" : "1426",
+        "target" : "1424",
+        "shared_name" : "出场4 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 8,
+        "SUID" : 1483,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1476",
+        "source" : "1426",
+        "target" : "1424",
+        "shared_name" : "出场4 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 7,
+        "SUID" : 1476,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1469",
+        "source" : "1426",
+        "target" : "1436",
+        "shared_name" : "出场4 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 6,
+        "SUID" : 1469,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1462",
+        "source" : "1426",
+        "target" : "1424",
+        "shared_name" : "出场4 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 5,
+        "SUID" : 1462,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1455",
+        "source" : "1426",
+        "target" : "1424",
+        "shared_name" : "出场4 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈明",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 4,
+        "SUID" : 1455,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1448",
+        "source" : "1426",
+        "target" : "1433",
+        "shared_name" : "出场4 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈明",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 3,
+        "SUID" : 1448,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1441",
+        "source" : "1426",
+        "target" : "1427",
+        "shared_name" : "出场4 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 2,
+        "SUID" : 1441,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1428",
+        "source" : "1426",
+        "target" : "1427",
+        "shared_name" : "出场4 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄贯中",
+        "year" : 2013,
+        "name" : "出场4 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 1,
+        "SUID" : 1428,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1744",
+        "source" : "1423",
+        "target" : "1433",
+        "shared_name" : "出场3 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "狮子合唱团",
+        "year" : 2017,
+        "name" : "出场3 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1744,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1737",
+        "source" : "1423",
+        "target" : "1430",
+        "shared_name" : "出场3 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "袁娅维",
+        "year" : 2017,
+        "name" : "出场3 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 2,
+        "SUID" : 1737,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1730",
+        "source" : "1423",
+        "target" : "1430",
+        "shared_name" : "出场3 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "光良",
+        "year" : 2017,
+        "name" : "出场3 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 1,
+        "SUID" : 1730,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1723",
+        "source" : "1423",
+        "target" : "1430",
+        "shared_name" : "出场3 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 11,
+        "SUID" : 1723,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1716",
+        "source" : "1423",
+        "target" : "1418",
+        "shared_name" : "出场3 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 10,
+        "SUID" : 1716,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1709",
+        "source" : "1423",
+        "target" : "1427",
+        "shared_name" : "出场3 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "容祖儿",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 9,
+        "SUID" : 1709,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1702",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 8,
+        "SUID" : 1702,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1694",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 7,
+        "SUID" : 1694,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1688",
+        "source" : "1423",
+        "target" : "1430",
+        "shared_name" : "出场3 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 6,
+        "SUID" : 1688,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1681",
+        "source" : "1423",
+        "target" : "1418",
+        "shared_name" : "出场3 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 5,
+        "SUID" : 1681,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1674",
+        "source" : "1423",
+        "target" : "1430",
+        "shared_name" : "出场3 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "苏见信",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 4,
+        "SUID" : 1674,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1668",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 3,
+        "SUID" : 1668,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1660",
+        "source" : "1423",
+        "target" : "1659",
+        "shared_name" : "出场3 (interacts with) 竞演8",
+        "shared_interaction" : "interacts with",
+        "singer" : "关喆",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演8",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1660,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1650",
+        "source" : "1423",
+        "target" : "1418",
+        "shared_name" : "出场3 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场3 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1650,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1643",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 11,
+        "SUID" : 1643,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1636",
+        "source" : "1423",
+        "target" : "1433",
+        "shared_name" : "出场3 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 10,
+        "SUID" : 1636,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1629",
+        "source" : "1423",
+        "target" : "1436",
+        "shared_name" : "出场3 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭维维",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 9,
+        "SUID" : 1629,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1622",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 8,
+        "SUID" : 1622,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1615",
+        "source" : "1423",
+        "target" : "1427",
+        "shared_name" : "出场3 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 7,
+        "SUID" : 1615,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1608",
+        "source" : "1423",
+        "target" : "1427",
+        "shared_name" : "出场3 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 6,
+        "SUID" : 1608,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1601",
+        "source" : "1423",
+        "target" : "1427",
+        "shared_name" : "出场3 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "古巨基",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 5,
+        "SUID" : 1601,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1594",
+        "source" : "1423",
+        "target" : "1418",
+        "shared_name" : "出场3 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 4,
+        "SUID" : 1594,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1587",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 3,
+        "SUID" : 1587,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1580",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 2,
+        "SUID" : 1580,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1573",
+        "source" : "1423",
+        "target" : "1427",
+        "shared_name" : "出场3 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄丽玲",
+        "year" : 2015,
+        "name" : "出场3 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 1,
+        "SUID" : 1573,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1566",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 10,
+        "SUID" : 1566,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1559",
+        "source" : "1423",
+        "target" : "1436",
+        "shared_name" : "出场3 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 9,
+        "SUID" : 1559,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1552",
+        "source" : "1423",
+        "target" : "1436",
+        "shared_name" : "出场3 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 8,
+        "SUID" : 1552,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1545",
+        "source" : "1423",
+        "target" : "1427",
+        "shared_name" : "出场3 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 7,
+        "SUID" : 1545,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1538",
+        "source" : "1423",
+        "target" : "1433",
+        "shared_name" : "出场3 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 6,
+        "SUID" : 1538,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1531",
+        "source" : "1423",
+        "target" : "1436",
+        "shared_name" : "出场3 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "罗琦",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 5,
+        "SUID" : 1531,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1524",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 4,
+        "SUID" : 1524,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1517",
+        "source" : "1423",
+        "target" : "1421",
+        "shared_name" : "出场3 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "韦唯",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 3,
+        "SUID" : 1517,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1510",
+        "source" : "1423",
+        "target" : "1421",
+        "shared_name" : "出场3 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "曹格",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 2,
+        "SUID" : 1510,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1503",
+        "source" : "1423",
+        "target" : "1421",
+        "shared_name" : "出场3 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场3 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 1,
+        "SUID" : 1503,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1496",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "彭佳慧",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 10,
+        "SUID" : 1496,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1489",
+        "source" : "1423",
+        "target" : "1421",
+        "shared_name" : "出场3 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "周晓鸥",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 9,
+        "SUID" : 1489,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1482",
+        "source" : "1423",
+        "target" : "1421",
+        "shared_name" : "出场3 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 8,
+        "SUID" : 1482,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1475",
+        "source" : "1423",
+        "target" : "1433",
+        "shared_name" : "出场3 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 7,
+        "SUID" : 1475,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1468",
+        "source" : "1423",
+        "target" : "1418",
+        "shared_name" : "出场3 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 6,
+        "SUID" : 1468,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1461",
+        "source" : "1423",
+        "target" : "1430",
+        "shared_name" : "出场3 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 5,
+        "SUID" : 1461,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1454",
+        "source" : "1423",
+        "target" : "1436",
+        "shared_name" : "出场3 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 4,
+        "SUID" : 1454,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1447",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 3,
+        "SUID" : 1447,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1440",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 2,
+        "SUID" : 1440,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1425",
+        "source" : "1423",
+        "target" : "1424",
+        "shared_name" : "出场3 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场3 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 1,
+        "SUID" : 1425,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1743",
+        "source" : "1420",
+        "target" : "1436",
+        "shared_name" : "出场2 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭晶",
+        "year" : 2017,
+        "name" : "出场2 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1743,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1736",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭晶",
+        "year" : 2017,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 2,
+        "SUID" : 1736,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1729",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "袁娅维",
+        "year" : 2017,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 1,
+        "SUID" : 1729,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1722",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 11,
+        "SUID" : 1722,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1715",
+        "source" : "1420",
+        "target" : "1427",
+        "shared_name" : "出场2 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 10,
+        "SUID" : 1715,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1708",
+        "source" : "1420",
+        "target" : "1424",
+        "shared_name" : "出场2 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 9,
+        "SUID" : 1708,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1701",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 8,
+        "SUID" : 1701,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1693",
+        "source" : "1420",
+        "target" : "1430",
+        "shared_name" : "出场2 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张信哲",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 7,
+        "SUID" : 1693,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1687",
+        "source" : "1420",
+        "target" : "1424",
+        "shared_name" : "出场2 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 6,
+        "SUID" : 1687,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1680",
+        "source" : "1420",
+        "target" : "1427",
+        "shared_name" : "出场2 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 5,
+        "SUID" : 1680,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1673",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "赵传",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 4,
+        "SUID" : 1673,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1667",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "苏见信",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 3,
+        "SUID" : 1667,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1658",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1658,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1649",
+        "source" : "1420",
+        "target" : "1427",
+        "shared_name" : "出场2 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场2 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1649,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1642",
+        "source" : "1420",
+        "target" : "1433",
+        "shared_name" : "出场2 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 11,
+        "SUID" : 1642,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1635",
+        "source" : "1420",
+        "target" : "1424",
+        "shared_name" : "出场2 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "谭维维",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 10,
+        "SUID" : 1635,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1628",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 9,
+        "SUID" : 1628,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1621",
+        "source" : "1420",
+        "target" : "1430",
+        "shared_name" : "出场2 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "郑淳元",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 8,
+        "SUID" : 1621,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1614",
+        "source" : "1420",
+        "target" : "1430",
+        "shared_name" : "出场2 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 7,
+        "SUID" : 1614,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1607",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "古巨基",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 6,
+        "SUID" : 1607,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1600",
+        "source" : "1420",
+        "target" : "1424",
+        "shared_name" : "出场2 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 5,
+        "SUID" : 1600,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1593",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 4,
+        "SUID" : 1593,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1586",
+        "source" : "1420",
+        "target" : "1427",
+        "shared_name" : "出场2 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "胡彦斌",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 3,
+        "SUID" : 1586,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1579",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈洁仪",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 2,
+        "SUID" : 1579,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1572",
+        "source" : "1420",
+        "target" : "1424",
+        "shared_name" : "出场2 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场2 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 1,
+        "SUID" : 1572,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1565",
+        "source" : "1420",
+        "target" : "1433",
+        "shared_name" : "出场2 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 10,
+        "SUID" : 1565,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1558",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 9,
+        "SUID" : 1558,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1551",
+        "source" : "1420",
+        "target" : "1430",
+        "shared_name" : "出场2 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 8,
+        "SUID" : 1551,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1544",
+        "source" : "1420",
+        "target" : "1433",
+        "shared_name" : "出场2 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 7,
+        "SUID" : 1544,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1537",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 6,
+        "SUID" : 1537,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1530",
+        "source" : "1420",
+        "target" : "1433",
+        "shared_name" : "出场2 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 5,
+        "SUID" : 1530,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1523",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "韦唯",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 4,
+        "SUID" : 1523,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1516",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "罗琦",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 3,
+        "SUID" : 1516,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1509",
+        "source" : "1420",
+        "target" : "1427",
+        "shared_name" : "出场2 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "周笔畅",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 2,
+        "SUID" : 1509,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1502",
+        "source" : "1420",
+        "target" : "1433",
+        "shared_name" : "出场2 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场2 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 1,
+        "SUID" : 1502,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1495",
+        "source" : "1420",
+        "target" : "1430",
+        "shared_name" : "出场2 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 10,
+        "SUID" : 1495,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1488",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 9,
+        "SUID" : 1488,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1481",
+        "source" : "1420",
+        "target" : "1427",
+        "shared_name" : "出场2 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 8,
+        "SUID" : 1481,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1474",
+        "source" : "1420",
+        "target" : "1436",
+        "shared_name" : "出场2 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 7,
+        "SUID" : 1474,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1467",
+        "source" : "1420",
+        "target" : "1430",
+        "shared_name" : "出场2 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 6,
+        "SUID" : 1467,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1460",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 5,
+        "SUID" : 1460,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1453",
+        "source" : "1420",
+        "target" : "1418",
+        "shared_name" : "出场2 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 4,
+        "SUID" : 1453,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1446",
+        "source" : "1420",
+        "target" : "1427",
+        "shared_name" : "出场2 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "尚雯婕",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 3,
+        "SUID" : 1446,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1439",
+        "source" : "1420",
+        "target" : "1433",
+        "shared_name" : "出场2 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "齐秦",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 2,
+        "SUID" : 1439,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1422",
+        "source" : "1420",
+        "target" : "1421",
+        "shared_name" : "出场2 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "陈明",
+        "year" : 2013,
+        "name" : "出场2 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 1,
+        "SUID" : 1422,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1742",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "林忆莲",
+        "year" : 2017,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 3,
+        "SUID" : 1742,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1735",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "光良",
+        "year" : 2017,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 2,
+        "SUID" : 1735,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1728",
+        "source" : "1417",
+        "target" : "1436",
+        "shared_name" : "出场1 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "迪玛希",
+        "year" : 2017,
+        "name" : "出场1 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 5,
+        "episode" : 1,
+        "SUID" : 1728,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1721",
+        "source" : "1417",
+        "target" : "1424",
+        "shared_name" : "出场1 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄致列",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 11,
+        "SUID" : 1721,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1714",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "容祖儿",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 10,
+        "SUID" : 1714,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1707",
+        "source" : "1417",
+        "target" : "1433",
+        "shared_name" : "出场1 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 9,
+        "SUID" : 1707,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1706",
+        "source" : "1417",
+        "target" : "1427",
+        "shared_name" : "出场1 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "王晰",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 8,
+        "SUID" : 1706,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1700",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 8,
+        "SUID" : 1700,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1679",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "赵传",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 5,
+        "SUID" : 1679,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1672",
+        "source" : "1417",
+        "target" : "1433",
+        "shared_name" : "出场1 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "李克勤",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 4,
+        "SUID" : 1672,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1666",
+        "source" : "1417",
+        "target" : "1418",
+        "shared_name" : "出场1 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "李玟",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 3,
+        "SUID" : 1666,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1657",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "徐佳莹",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 2,
+        "SUID" : 1657,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1648",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "哈雅乐团",
+        "year" : 2016,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 4,
+        "episode" : 1,
+        "SUID" : 1648,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1641",
+        "source" : "1417",
+        "target" : "1427",
+        "shared_name" : "出场1 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "郑淳元",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 11,
+        "SUID" : 1641,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1634",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 10,
+        "SUID" : 1634,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1627",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "李健",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 9,
+        "SUID" : 1627,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1620",
+        "source" : "1417",
+        "target" : "1427",
+        "shared_name" : "出场1 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 8,
+        "SUID" : 1620,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1613",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 7,
+        "SUID" : 1613,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1606",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 6,
+        "SUID" : 1606,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1599",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "胡彦斌",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 5,
+        "SUID" : 1599,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1592",
+        "source" : "1417",
+        "target" : "1433",
+        "shared_name" : "出场1 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "孙楠",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 4,
+        "SUID" : 1592,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1585",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "张靓颖",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 3,
+        "SUID" : 1585,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1578",
+        "source" : "1417",
+        "target" : "1418",
+        "shared_name" : "出场1 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩红",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 2,
+        "SUID" : 1578,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1571",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "古巨基",
+        "year" : 2015,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 3,
+        "episode" : 1,
+        "SUID" : 1571,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1564",
+        "source" : "1417",
+        "target" : "1436",
+        "shared_name" : "出场1 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 10,
+        "SUID" : 1564,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1557",
+        "source" : "1417",
+        "target" : "1424",
+        "shared_name" : "出场1 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 9,
+        "SUID" : 1557,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1550",
+        "source" : "1417",
+        "target" : "1433",
+        "shared_name" : "出场1 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 8,
+        "SUID" : 1550,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1543",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "满文军",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 7,
+        "SUID" : 1543,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1536",
+        "source" : "1417",
+        "target" : "1427",
+        "shared_name" : "出场1 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "张杰",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 6,
+        "SUID" : 1536,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1529",
+        "source" : "1417",
+        "target" : "1418",
+        "shared_name" : "出场1 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 5,
+        "SUID" : 1529,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1522",
+        "source" : "1417",
+        "target" : "1436",
+        "shared_name" : "出场1 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "邓紫棋",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 4,
+        "SUID" : 1522,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1515",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 3,
+        "SUID" : 1515,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1508",
+        "source" : "1417",
+        "target" : "1424",
+        "shared_name" : "出场1 (interacts with) 竞演4",
+        "shared_interaction" : "interacts with",
+        "singer" : "韩磊",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演4",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 2,
+        "SUID" : 1508,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1501",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "张宇",
+        "year" : 2014,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 2,
+        "episode" : 1,
+        "SUID" : 1501,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1494",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 10,
+        "SUID" : 1494,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1487",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "辛晓琪",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 9,
+        "SUID" : 1487,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1480",
+        "source" : "1417",
+        "target" : "1433",
+        "shared_name" : "出场1 (interacts with) 竞演5",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演5",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 8,
+        "SUID" : 1480,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1473",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 7,
+        "SUID" : 1473,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1466",
+        "source" : "1417",
+        "target" : "1427",
+        "shared_name" : "出场1 (interacts with) 竞演3",
+        "shared_interaction" : "interacts with",
+        "singer" : "林志炫",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演3",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 6,
+        "SUID" : 1466,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1459",
+        "source" : "1417",
+        "target" : "1436",
+        "shared_name" : "出场1 (interacts with) 竞演1",
+        "shared_interaction" : "interacts with",
+        "singer" : "林志炫",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演1",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 5,
+        "SUID" : 1459,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1452",
+        "source" : "1417",
+        "target" : "1421",
+        "shared_name" : "出场1 (interacts with) 竞演7",
+        "shared_interaction" : "interacts with",
+        "singer" : "齐秦",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演7",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 4,
+        "SUID" : 1452,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1445",
+        "source" : "1417",
+        "target" : "1430",
+        "shared_name" : "出场1 (interacts with) 竞演6",
+        "shared_interaction" : "interacts with",
+        "singer" : "沙宝亮",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演6",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 3,
+        "SUID" : 1445,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1438",
+        "source" : "1417",
+        "target" : "1418",
+        "shared_name" : "出场1 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "黄绮珊",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 2,
+        "SUID" : 1438,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1419",
+        "source" : "1417",
+        "target" : "1418",
+        "shared_name" : "出场1 (interacts with) 竞演2",
+        "shared_interaction" : "interacts with",
+        "singer" : "羽泉",
+        "year" : 2013,
+        "name" : "出场1 (interacts with) 竞演2",
+        "interaction" : "interacts with",
+        "season" : 1,
+        "episode" : 1,
+        "SUID" : 1419,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
