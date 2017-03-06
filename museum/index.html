@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>轮播</title>
+    <link rel="stylesheet" href="https://at.alicdn.com/t/font_zegop75beiza1yvi.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        img {
+            width: 640px;
+            height: 360px;
+        }
+        .clearfix:after {
+            display: block;
+            content: '';
+            clear: both;
+        }
+        #window {
+            width: 640px;
+            height: 360px;
+            overflow: hidden;
+            position: relative;
+            top: 30px;
+            text-align: center;
+            margin: 0 auto;
+        }
+        .pic {
+            width: 1280px;
+            position: absolute;
+        }
+        .pic>li {
+            float: left;
+        }
+        .btn {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            position: absolute;
+            display: inline-block;
+            background-color: rgba(255, 255, 255, 0.2);
+            text-decoration: none;
+            text-align: center;
+            line-height: 40px;
+            color: #fff;
+            margin-top: 180px;
+            top: -20px;
+        }
+        .btn-prev {
+            left: 10px;
+        }
+        .btn-next {
+            right: 10px;
+        }
+        .indexCt {
+            display: inline-block;
+        }
+        .pageIndex {
+            position: relative;
+            top: 320px;
+        }
+        .pageIndex>li {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background-color: rgba(255, 255, 255, 0.6);
+            float: left;
+            margin: 17px 9px;
+            cursor: pointer;
+        }
+        .pageIndex>.active {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+        .iconfont {
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="window">
+        <ul class="pic">
+            <li class="pic0"><img src="imgs/CHINA_1.png" alt=""></li>
+            <li class="pic1"><img src="imgs/USA_1.png" alt=""></li>
+        </ul>
+        <a href="#" class="btn btn-prev"><span class="iconfont icon-prev"></span></a>
+        <a href="#" class="btn btn-next"><span class="iconfont icon-next"></span></a>
+        <div class="indexCt">
+            <ul class="pageIndex clearfix">
+                <li class="active"></li>
+                <li></li>
+            </ul>
+        </div>
+    </div>
+    <script src="https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+        var $pic = $(".pic"),
+            $btnp = $(".btn-prev"),
+            $btnn = $(".btn-next"),
+            $pageIndex = $(".pageIndex"),
+            mark = 0,
+            picLength = $(".pic>li").length;
+        $pic.prepend($pic.find(".pic1").clone());
+        $pic.append($pic.find(".pic0").clone());
+        $pic.css("width", ($pic.children().length * 640 + "px"));
+        $pic.css("left", "-640px");
+        $btnn.on("click", function(){
+            playNext();
+        });
+        $btnp.on("click", function(){
+            playPrev();
+        });
+        $pageIndex.on("click", "li", function(){
+            choosePage($(this));
+        });
+
+        var lock = false;
+        function playNext(){
+            if(lock){
+                return ;
+            }else{
+                lock = true;
+                $pic.animate({
+                    "left": "-=640"
+                }, function(){
+                    mark ++;
+                    if(mark === picLength){
+                        $pic.css("left", -640);
+                        mark = 0;
+                    }
+                    movePageIndex();
+                    lock = false
+                })
+            }
+        }
+        function playPrev(){
+            if(lock){
+                return ;
+            }else{
+                lock = true;
+                $pic.animate({
+                    "left": "+=640"
+                }, function(){
+                    mark--;
+                    if(mark < 0){
+                        $pic.css("left", -1280);
+                        mark = 1;
+                    }
+                    movePageIndex();
+                    lock = false;
+                })
+            }
+        }
+        function movePageIndex(){
+            $pageIndex.children().removeClass("active");
+            $pageIndex.children().eq(mark).addClass("active");
+        }
+        function choosePage($e){
+            $pageIndex.children().removeClass("active");
+            $e.addClass("active");
+            $pic.animate({
+                "left": -640 * ($e.index() + 1) + "px"
+            })
+        }
+//        (function(){
+//            setInterval(function(){
+//                playNext()
+//            }, 4500)
+//        })();
+    </script>
+</body>
+</html>
