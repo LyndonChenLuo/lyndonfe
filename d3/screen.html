@@ -11,6 +11,12 @@
             .append("svg")
             .attr("width", 400)
             .attr("height", 400);
+        var rect = svg.append("rect")
+            .attr("x", 100)
+            .attr("y", 100)
+            .attr("width", 400)
+            .attr("height", 400)
+            .attr("fill", "black");
         var circle = svg.append("circle")
             .attr("cx", 150)
             .attr("cy", 200)
@@ -31,12 +37,6 @@
                 d3.select(this)
                     .attr("fill", "blue");
             });
-        var rect = svg.append("rect")
-            .attr("x", 100)
-            .attr("y", 100)
-            .attr("width", 400)
-            .attr("height", 400)
-            .attr("fill", "black");
     </script>
 </body>
 </html>
