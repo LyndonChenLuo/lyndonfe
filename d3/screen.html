@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script>
+        var svg = d3.select("body")
+            .append("svg")
+            .attr("width", 400)
+            .attr("height", 400);
+        var circle = svg.append("circle")
+            .attr("cx", 150)
+            .attr("cy", 200)
+            .attr("r", 50)
+            .attr("fill", "blue")
+            .on("touchstart", function(){
+                d3.select(this)
+                    .attr("fill", "yellow");
+            })
+            .on("touchmove", function(){
+                var pos = d3.touches(this)[0];
+                // 获取第一个触摸点
+                d3.select(this)
+                    .attr("cx", pos[0])
+                    .attr("cy", pos[1]);
+            })
+            .on("touchend", function(){
+                d3.select(this)
+                    .attr("fill", "blue");
+            });
+        var rect = svg.append("rect")
+            .attr("x", 100)
+            .attr("y", 100)
+            .attr("width", 400)
+            .attr("height", 400)
+            .attr("fill", "black");
+    </script>
+</body>
+</html>
