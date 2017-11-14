@@ -9,7 +9,7 @@
   },
   "text": {
     "title": "一带一路沿线国家合作势态网络图",
-    "more": "设计、代码：罗晨<br>Designed and Programmed by Chen Luo<br><br>日期：2016年10月<br>Date: Oct, 2016<br><br>",
+    "more": "日期：2016年10月<br>Date: Oct, 2016<br><br>",
     "intro": "<br>数据来自GDELT 1.0 Event Databse中2016年9月的一带一路沿线国家数据。<br><br>沿线国家的GDP (单位: 10亿美元) 与人口数量 (单位: 人) 均为2015年世界银行公布数据。<br><br>设计 & 代码：罗晨"
   },
   "legend": {
